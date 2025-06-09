@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Rodri</h1>
 <h3 align="center">Software Engineer | Backend</h3>
 
-- 🔭 I’m currently working on [RootStrap](https://www.rootstrap.com/). Stack: NodeJS, NestJS, AWS, PostgreSQL
+- 🔭 I’m currently working on [Rootstrap](https://www.rootstrap.com/). Stack: NodeJS, NestJS, AWS, PostgreSQL
 - 💬 Spanish, English
 - [💼 LinkedIn](https://linkedin.com/in/rodrigoenzohernandez)
 
@@ -35,6 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoenzohernandez&show_icons=true&locale=en&layout=compact" alt="rodrigoenzohernandez" /></p>
 
 <br clear="left"/>
-
-<!-- GitHub stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoenzohernandez&show_icons=true&locale=en" alt="rodrigoenzohernandez" /></p>
