@@ -1,8 +1,7 @@
 <h1 align="center">Hi! I'm Rodri</h1>
 <h3 align="center">Software Engineer | Backend</h3>
 
-- 🔭 I’m currently working on [GSTV](https://www.gstv.com/) US company that provides a video network to reproduces ads in service station dispensers. Stack: NodeJS, AWS, MongoDB
-- 🌱 I’m currently learning **Go**
+- 🔭 I’m currently working on [RootStrap](https://www.rootstrap.com/). Stack: NodeJS, NestJS, AWS, PostgreSQL
 - 💬 Spanish, English
 - [💼 LinkedIn](https://linkedin.com/in/rodrigoenzohernandez)
 
